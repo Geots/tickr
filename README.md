@@ -1,2 +1,2 @@
-# tickr
+# TICKR
 Daily Photography Website
